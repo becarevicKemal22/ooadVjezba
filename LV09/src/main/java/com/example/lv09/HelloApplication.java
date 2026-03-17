@@ -21,7 +21,7 @@ public class HelloApplication extends Application {
 //        fxmlLoader.setController(new OsobaController(osobaModel));
 //
 //        Scene scene = new Scene(fxmlLoader.load(), 300, 500);
-//        stage.setTitle("Dodaj osobu!");
+//        stage.setTitle("Dodaj osobu! SELMAAAA");
 //        stage.setScene(scene);
 //        stage.show();
 
