@@ -50,7 +50,7 @@
                 </children>
             </HBox>
             <TextField fx:id="imeField" promptText="Ime" />
-            <TextField fx:id="prezimeField" promptText="Prezime" GridPane.columnIndex="1" />
+            <TextField fx:id="prezimeField" promptText="Prezime DZEVAD" GridPane.columnIndex="1" />
             <TextField fx:id="adresaField" promptText="Adresa" GridPane.rowIndex="1" />
             <DatePicker fx:id="datumRodjenjaPicker" promptText="Datum rodjenja" GridPane.columnIndex="1" GridPane.rowIndex="1" />
             <TextField fx:id="maticniBrojField" promptText="Maticni broj" GridPane.rowIndex="2" />
