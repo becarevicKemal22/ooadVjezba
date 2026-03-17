@@ -55,7 +55,7 @@
             <DatePicker fx:id="datumRodjenjaPicker" promptText="Datum rodjenja" GridPane.columnIndex="1" GridPane.rowIndex="1" />
             <TextField fx:id="maticniBrojField" promptText="Maticni broj" GridPane.rowIndex="2" />
 
-            <Button fx:id="azurirajOsobuButton" text="Azuriraj Osobu" GridPane.columnSpan="2" GridPane.halignment="CENTER" GridPane.rowIndex="4" />
+            <Button fx:id="azurirajOsobuButton" text="KERIMMMMMMAzuriraj Osobu" GridPane.columnSpan="2" GridPane.halignment="CENTER" GridPane.rowIndex="4" />
             <Label fx:id="porukaLabel" visible="false" GridPane.columnSpan="2" GridPane.halignment="CENTER" GridPane.rowIndex="3" />
         </children>
     </GridPane>
